@@ -4,6 +4,8 @@ You will need to have NPM, NodeJS and Artillery installed in your computer to ru
 
 ## Getting Started
 
+Create a new folder called *results* where the report will be generated.
+
 You will need to do an `npm install` before running the code.  
 
 Once you have the dependencies installed, you can run the tests cases defined in the *package.json* e.g. `npm run test`
